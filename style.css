@@ -1,0 +1,59 @@
+
+*{
+
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: green;
+
+}
+header{
+    text-align: center;
+
+}
+
+
+
+
+
+header h1{
+    background-color: lightgreen;
+    text-align: center;
+    height: 40px;
+    text-shadow: 30px
+
+}
+nav{
+    background-color: green;
+    text-align: center;
+    text-emphasis-color: rgb(145, 92, 92);
+
+}
+
+main article section img {
+    width: 90pc ;
+    height: 30pc;
+
+
+}
+body header nav ul li {
+    color: black;
+
+}
+a{
+    text-align: center;
+    color-adjust: 
+}
+li a {
+    text-decoration: none;
+    color: white;
+    padding-right: 20px;
+
+}
+li {
+    display: inline-block;
+}
+
+
+    
